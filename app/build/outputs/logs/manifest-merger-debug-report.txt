@@ -1,0 +1,856 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+MERGED from [com.huawei.android.hms:push:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-2.6.3.301.aar\3ce00f580d28e2cf023ff634bde426ac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:2:1-23:12
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:2:1-34:12
+MERGED from [com.tencent.bugly:crashreport:2.6.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.aar\c7a8a89ed0e0433c93d3708431aa0256\AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e8e9c78dfb047b765f7e9988ddc1018d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7ba795070e0f1c97eca4513fda0e3685\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:17:1-74:12
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-62:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\42d079670a30735406b1e2910d22c39b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\648e1e12f9f689fc05e461fcb1f675b1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\250c6c0353c4dc260d9c0ca7e2faf287\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.6.2.aar\b09f25210b974f9cbaf5e89d461a475d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d21f8fa015f39920743af0049f43a8ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\be498e2e26832de5342a7ac5b3dbb27c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c362f3abb32e6baa8f4660e9832e9491\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbe4375272824e55a2b998f55b28df5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f812a74f404b571891ce580e6fca80d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\802cb257b3ea6da921e9852f9af6b60b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fbd3647d1aa1a5fc82a24f0b59fd7220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe18c591db23b473245dfc81c88e3070\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28061ac881892b5babac7e2d7483bf06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:2:1-41:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:1:106-7:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b1b27d0277043d6ee2579a51e7ee025\AndroidManifest.xml:17:1-22:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\8ce844965dbbbf86604187618a208c79\AndroidManifest.xml:1:116-8:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cecb986974fe45bfe062ca00aea8b766\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2cfc702712ef8d73cc1361a5531f8e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\083b4c13495b542b557b190358bf6472\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+	package
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:13:5-79
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:13:5-79
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:11:5-67
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:11:5-67
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:7:5-76
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:16:5-76
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:16:5-76
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-76
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-76
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:14:5-76
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:15:5-81
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:15:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:24:5-81
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-81
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:12:5-75
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:12:5-75
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:12:5-75
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-75
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:15:22-80
+permission#com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:18:5-20:55
+	android:protectionLevel
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:19:9-81
+uses-permission#com.tencent.qcloud.tim.tuikit.permission.PROCESS_PUSH_MSG
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:22:5-97
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:22:22-94
+permission#com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:25:5-27:47
+	android:protectionLevel
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:26:9-79
+uses-permission#com.tencent.qcloud.tim.tuikit.permission.MIPUSH_RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:29:5-95
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:29:22-92
+uses-permission#com.meizu.flyme.push.permission.RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:33:22-76
+permission#com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:35:5-37:47
+	android:protectionLevel
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:36:9-77
+uses-permission#com.tencent.qcloud.tim.tuikit.push.permission.MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:39:22-90
+uses-permission#com.meizu.c2dm.permission.RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:42:22-70
+permission#com.tencent.qcloud.tim.tuikit.permission.C2D_MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:44:5-46:47
+	android:protectionLevel
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:46:9-44
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:45:9-76
+uses-permission#com.tencent.qcloud.tim.tuikit.permission.C2D_MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:48:5-92
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:48:22-89
+application
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:50:5-299:19
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:9:5-21:19
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:9:5-21:19
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:18:5-32:19
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:18:5-32:19
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:28:5-72:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:28:5-72:19
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-60:19
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-60:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\648e1e12f9f689fc05e461fcb1f675b1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\648e1e12f9f689fc05e461fcb1f675b1\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.6.2.aar\b09f25210b974f9cbaf5e89d461a475d\AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.6.2.aar\b09f25210b974f9cbaf5e89d461a475d\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c362f3abb32e6baa8f4660e9832e9491\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c362f3abb32e6baa8f4660e9832e9491\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:9:5-20
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:16:5-39:19
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:16:5-39:19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\8ce844965dbbbf86604187618a208c79\AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\8ce844965dbbbf86604187618a208c79\AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:55:9-35
+	android:label
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:54:9-41
+	android:icon
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:53:9-45
+	android:allowBackup
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:52:9-35
+	android:theme
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:56:9-40
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:51:9-67
+activity#com.tencent.qcloud.tim.demo.login.LoginForDevActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:57:9-67:20
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:59:13-49
+	android:theme
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:58:13-81
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:61:13-66:29
+action#android.intent.action.VIEW
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:62:25-66
+action#android.intent.action.MAIN
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:65:27-74
+activity#com.tencent.qcloud.tim.demo.chat.ChatActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:72:9-76:70
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:75:13-49
+	android:launchMode
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:74:13-44
+	android:windowSoftInputMode
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:76:13-67
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:73:13-73
+activity#com.tencent.qcloud.tim.demo.main.MainActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:80:13-49
+	android:launchMode
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:79:13-44
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:78:13-73
+activity#com.tencent.qcloud.tim.demo.menu.AddMoreActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:81:9-83:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:82:13-76
+activity#com.tencent.qcloud.tim.demo.contact.FriendProfileActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:85:13-85
+activity#com.tencent.qcloud.tim.demo.contact.NewFriendActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:87:9-89:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:88:13-81
+activity#com.tencent.qcloud.tim.demo.contact.BlackListActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:90:9-92:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:91:13-81
+activity#com.tencent.qcloud.tim.demo.contact.GroupListActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:94:13-81
+activity#com.tencent.qcloud.tim.demo.menu.StartC2CChatActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:97:13-81
+activity#com.tencent.qcloud.tim.demo.profile.WebViewActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:100:13-79
+activity#com.tencent.qcloud.tim.demo.menu.StartGroupChatActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:102:9-105:73
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:104:13-49
+	android:windowSoftInputMode
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:105:13-70
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:103:13-83
+service#com.tencent.imsdk.session.remote.SessionService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:108:9-110:42
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:20:9-22:42
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:20:9-22:42
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:110:13-39
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:109:13-75
+service#com.tencent.imsdk.session.remote.AssistService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:113:9-115:42
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:23:9-25:42
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:23:9-25:42
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:115:13-39
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:114:13-74
+service#com.tencent.imsdk.session.remote.KeepAliveJobService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:116:9-119:42
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:26:9-29:42
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:26:9-29:42
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:119:13-39
+	android:permission
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:118:13-69
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:117:13-80
+receiver#com.tencent.imsdk.session.SessionBroadcastReceiver
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:122:9-128:20
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:31:9-38:20
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:31:9-38:20
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:122:19-84
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.imsdk.session.boot
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:123:13-127:29
+action#com.tencent.imsdk.session.boot
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:124:17-73
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:124:25-70
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:125:17-79
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:125:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:126:17-79
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:126:25-76
+service#com.xiaomi.push.service.XMPushService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:131:9-134:46
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:134:13-43
+	android:enabled
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:133:13-35
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:132:13-65
+service#com.xiaomi.push.service.XMJobService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:135:9-140:46
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:140:13-43
+	android:enabled
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:137:13-35
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:138:13-37
+	android:permission
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:139:13-69
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:136:13-64
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:143:9-146:39
+	android:enabled
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:145:13-35
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:146:13-36
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:144:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:147:9-149:38
+	android:enabled
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:149:13-35
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:148:13-70
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:152:9-160:20
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:154:13-36
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:153:13-83
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:155:13-159:29
+category#android.intent.category.DEFAULT
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:158:17-76
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:158:27-73
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:161:9-168:20
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:164:13-43
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:163:13-37
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:162:13-74
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:165:13-167:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:166:17-69
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:166:25-66
+receiver#com.tencent.qcloud.tim.demo.thirdpush.XiaomiMsgReceiver
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:171:9-183:20
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:173:13-36
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:172:13-83
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:174:13-176:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:175:17-76
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:175:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:177:13-179:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:178:17-76
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:178:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:180:13-182:29
+action#com.xiaomi.mipush.ERROR
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:181:17-66
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:181:25-63
+meta-data#com.huawei.hms.client.appid
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:187:9-189:47
+	android:value
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:189:13-44
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:188:13-55
+provider#com.huawei.hms.update.provider.UpdateProvider
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:191:9-195:50
+	android:grantUriPermissions
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:195:13-47
+	android:authorities
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:193:13-84
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:194:13-37
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:192:13-73
+provider#com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:197:9-201:49
+	android:grantUriPermissions
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:201:13-47
+	android:authorities
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:199:13-87
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:200:13-37
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:198:13-83
+activity#com.huawei.android.hms.agent.common.HMSAgentActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:203:9-213:20
+	android:excludeFromRecents
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:206:13-46
+	android:hardwareAccelerated
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:208:13-47
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:207:13-37
+	android:configChanges
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:205:13-92
+	android:theme
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:209:13-61
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:204:13-80
+meta-data#hwc-theme
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:210:13-212:77
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:17:13-19:77
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:17:13-19:77
+	android:value
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:212:17-74
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:211:17-41
+activity#com.huawei.hms.activity.BridgeActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:215:9-225:20
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:10:9-20:20
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:10:9-20:20
+	android:excludeFromRecents
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:218:13-46
+	android:hardwareAccelerated
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:220:13-47
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:219:13-37
+	android:configChanges
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:217:13-92
+	android:theme
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:221:13-61
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:216:13-66
+receiver#com.tencent.qcloud.tim.demo.thirdpush.HUAWEIPushReceiver
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:227:9-239:20
+	android:permission
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:229:13-91
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:228:13-84
+intent-filter#com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.intent.action.PUSH_DELAY_NOTIFY
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:230:13-238:29
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:233:17-86
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:233:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:235:17-81
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:235:25-78
+action#com.huawei.intent.action.PUSH_DELAY_NOTIFY
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:237:17-85
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:237:25-82
+service#com.huawei.hms.support.api.push.service.HmsMsgService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:241:9-250:19
+	android:process
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:245:13-43
+	android:enabled
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:243:13-35
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:244:13-36
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:242:13-81
+intent-filter#com.huawei.push.msg.NOTIFY_MSG+com.huawei.push.msg.PASSBY_MSG
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:246:13-249:29
+action#com.huawei.push.msg.NOTIFY_MSG
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:247:17-73
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:247:25-70
+action#com.huawei.push.msg.PASSBY_MSG
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:248:17-73
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:248:25-70
+receiver#com.tencent.qcloud.tim.demo.thirdpush.MEIZUPushReceiver
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:255:9-270:20
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:255:19-89
+intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.tencent.qcloud.uipojo.thirdpush
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:256:13-269:29
+action#com.meizu.flyme.push.intent.MESSAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:259:17-78
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:259:25-75
+action#com.meizu.flyme.push.intent.REGISTER.FEEDBACK
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:261:17-88
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:261:25-85
+action#com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:263:17-90
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:263:25-87
+action#com.meizu.c2dm.intent.REGISTRATION
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:265:17-77
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:265:25-74
+action#com.meizu.c2dm.intent.RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:266:17-72
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:266:25-69
+category#com.tencent.qcloud.uipojo.thirdpush
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:268:17-80
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:268:27-77
+service#com.vivo.push.sdk.service.CommandClientService
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:274:9-276:39
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:276:13-36
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:275:13-74
+activity#com.vivo.push.sdk.LinkProxyClientActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:278:9-282:75
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:281:13-49
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:280:13-37
+	android:theme
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:282:13-72
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:279:13-69
+receiver#com.tencent.qcloud.tim.demo.thirdpush.VIVOPushMessageReceiverImpl
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:285:9-291:20
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:285:19-99
+intent-filter#com.vivo.pushclient.action.RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:286:13-290:29
+action#com.vivo.pushclient.action.RECEIVE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:289:17-77
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:289:25-74
+meta-data#com.vivo.push.api_key
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:293:9-295:68
+	android:value
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:295:13-65
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:294:13-49
+meta-data#com.vivo.push.app_id
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:296:9-298:37
+	android:value
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:298:13-34
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:297:13-48
+uses-sdk
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+MERGED from [com.huawei.android.hms:push:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-2.6.3.301.aar\3ce00f580d28e2cf023ff634bde426ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:push:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-2.6.3.301.aar\3ce00f580d28e2cf023ff634bde426ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:base:2.6.3.301] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\base-2.6.3.301.aar\ddedbfa25f37cb3a81d0f9a2d0fbcb1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.aar\c7a8a89ed0e0433c93d3708431aa0256\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.aar\c7a8a89ed0e0433c93d3708431aa0256\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e8e9c78dfb047b765f7e9988ddc1018d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e8e9c78dfb047b765f7e9988ddc1018d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7ba795070e0f1c97eca4513fda0e3685\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7ba795070e0f1c97eca4513fda0e3685\AndroidManifest.xml:20:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-support-fragment-1.6.2.aar\1abfdc37342908c5b9121da6c259bdeb\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:20:5-44
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\42d079670a30735406b1e2910d22c39b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\42d079670a30735406b1e2910d22c39b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\648e1e12f9f689fc05e461fcb1f675b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\648e1e12f9f689fc05e461fcb1f675b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\250c6c0353c4dc260d9c0ca7e2faf287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\250c6c0353c4dc260d9c0ca7e2faf287\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.6.2.aar\b09f25210b974f9cbaf5e89d461a475d\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.6.2.aar\b09f25210b974f9cbaf5e89d461a475d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d21f8fa015f39920743af0049f43a8ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d21f8fa015f39920743af0049f43a8ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\be498e2e26832de5342a7ac5b3dbb27c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\be498e2e26832de5342a7ac5b3dbb27c\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c362f3abb32e6baa8f4660e9832e9491\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\c362f3abb32e6baa8f4660e9832e9491\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbe4375272824e55a2b998f55b28df5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbe4375272824e55a2b998f55b28df5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f812a74f404b571891ce580e6fca80d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f812a74f404b571891ce580e6fca80d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\802cb257b3ea6da921e9852f9af6b60b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\802cb257b3ea6da921e9852f9af6b60b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fbd3647d1aa1a5fc82a24f0b59fd7220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fbd3647d1aa1a5fc82a24f0b59fd7220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe18c591db23b473245dfc81c88e3070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe18c591db23b473245dfc81c88e3070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28061ac881892b5babac7e2d7483bf06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28061ac881892b5babac7e2d7483bf06\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\0e213ef3f735311c327fa5b01196f620\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:7:5-9:41
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\7b90d667e6d777909be79fc7b1d0517d\AndroidManifest.xml:3:5-72
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b1b27d0277043d6ee2579a51e7ee025\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b1b27d0277043d6ee2579a51e7ee025\AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\8ce844965dbbbf86604187618a208c79\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\8ce844965dbbbf86604187618a208c79\AndroidManifest.xml:3:5-72
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cecb986974fe45bfe062ca00aea8b766\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cecb986974fe45bfe062ca00aea8b766\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2cfc702712ef8d73cc1361a5531f8e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2cfc702712ef8d73cc1361a5531f8e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\083b4c13495b542b557b190358bf6472\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\083b4c13495b542b557b190358bf6472\AndroidManifest.xml:20:5-44
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:14:5-80
+IMPLIED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\app\src\main\AndroidManifest.xml:2:1-301:12 reason: com.meizu.cloud.pushinternal requested WRITE_EXTERNAL_STORAGE
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:23:5-80
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-80
+MERGED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:14:22-77
+service#com.meizu.cloud.pushsdk.NotificationService
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:19:9-21:39
+	android:exported
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:20:13-71
+receiver#com.meizu.cloud.pushsdk.SystemReceiver
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:24:13-66
+intent-filter#android.intent.category.DEFAULT+com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:26:13-30:29
+action#com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:27:17-96
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\push-internal-3.6.7.aar\0c6d27d82d22ea26b91c1266ff737f2d\AndroidManifest.xml:27:25-93
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:26:22-74
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:29:9-32:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:32:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:33:9-36:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:36:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:34:13-70
+provider#com.squareup.leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:40:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:39:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:43:13-45:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:45:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:44:17-67
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:48:9-61:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:53:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:50:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:52:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:51:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:55:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:54:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:49:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:56:13-60:29
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:62:9-71:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:68:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:64:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:67:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:65:13-46
+	android:roundIcon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:69:13-57
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:66:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:71:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:70:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.6.2.aar\178fb1d9f9873850b2d60239200bb6ae\AndroidManifest.xml:63:13-93
+activity#com.tencent.qcloud.tim.uikit.component.picture.ui.MatissePickerActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:9-20:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:13-99
+activity#com.tencent.qcloud.tim.uikit.component.picture.internal.ui.AlbumPreviewActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:9-23:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:13-107
+activity#com.tencent.qcloud.tim.uikit.component.picture.internal.ui.SelectedPreviewActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:9-26:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-110
+activity#com.tencent.qcloud.tim.uikit.component.video.CameraActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-87
+activity#com.tencent.qcloud.tim.uikit.component.video.VideoViewActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:9-32:66
+	android:configChanges
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:13-90
+activity#com.tencent.qcloud.tim.uikit.component.photoview.PhotoViewActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:13-94
+activity#com.tencent.qcloud.tim.uikit.modules.group.info.GroupInfoActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:13-93
+activity#com.tencent.qcloud.tim.uikit.component.SelectionActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:13-84
+activity#com.tencent.qcloud.tim.uikit.modules.group.apply.GroupApplyManagerActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:9-45:73
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:13-70
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:13-102
+activity#com.tencent.qcloud.tim.uikit.modules.group.apply.GroupApplyMemberActivity
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:9-49:73
+	android:screenOrientation
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:13-49
+	android:windowSoftInputMode
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:13-70
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:13-101
+provider#android.support.v4.content.FileProvider
+ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:9-59:20
+	android:grantUriPermissions
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:55:13-47
+	android:authorities
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:13-70
+	android:exported
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from [:tuikit] E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:11:22-78
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.imsdk.session.boot+com.tencent.qcloud.qal.TASK_REMOVED
+ADDED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:32:13-37:29
+action#com.tencent.qcloud.qal.TASK_REMOVED
+ADDED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.tencent.imsdk:imsdk:4.4.479] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imsdk-4.4.479.aar\1364fee61cc9cca92bc5dd8d7e910e6e\AndroidManifest.xml:36:25-75

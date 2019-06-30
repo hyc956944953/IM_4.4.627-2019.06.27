@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+	package
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:10:5-53:19
+activity#com.tencent.qcloud.tim.uikit.component.picture.ui.MatissePickerActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:11:9-13:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:12:13-71
+activity#com.tencent.qcloud.tim.uikit.component.picture.internal.ui.AlbumPreviewActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:14:9-16:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:15:13-79
+activity#com.tencent.qcloud.tim.uikit.component.picture.internal.ui.SelectedPreviewActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:17:9-19:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:18:13-82
+activity#com.tencent.qcloud.tim.uikit.component.video.CameraActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:20:9-22:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:21:13-59
+activity#com.tencent.qcloud.tim.uikit.component.video.VideoViewActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:23:9-25:66
+	android:configChanges
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:24:13-62
+activity#com.tencent.qcloud.tim.uikit.component.photoview.PhotoViewActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:27:13-66
+activity#com.tencent.qcloud.tim.uikit.modules.group.info.GroupInfoActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:29:9-31:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:30:13-65
+activity#com.tencent.qcloud.tim.uikit.component.SelectionActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:33:13-56
+activity#com.tencent.qcloud.tim.uikit.modules.group.apply.GroupApplyManagerActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:35:9-38:73
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:37:13-49
+	android:windowSoftInputMode
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:38:13-70
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:36:13-74
+activity#com.tencent.qcloud.tim.uikit.modules.group.apply.GroupApplyMemberActivity
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:39:9-42:73
+	android:screenOrientation
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:41:13-49
+	android:windowSoftInputMode
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:42:13-70
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:40:13-73
+provider#android.support.v4.content.FileProvider
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:44:9-52:20
+	android:grantUriPermissions
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:48:13-47
+	android:authorities
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:46:13-70
+	android:exported
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:45:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:49:13-51:60
+	android:resource
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:51:17-58
+	android:name
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml:50:17-67
+uses-sdk
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		ADDED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android project\tencentyun\4.4.627 @2019.06.27\tuikit\src\main\AndroidManifest.xml
